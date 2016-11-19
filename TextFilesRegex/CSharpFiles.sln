@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFilesRegex", "TextFilesRegex\TextFilesRegex.csproj", "{7A73ECF6-5752-405C-BC81-9A2E6BC4C540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleTextFiles", "PeopleTextFiles\PeopleTextFiles.csproj", "{1A4E99A2-EA6B-48B7-A432-D4A282304691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesSearch", "FilesSearch\FilesSearch.csproj", "{C2042238-2BE7-40B0-BA8C-668E826FCF0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A73ECF6-5752-405C-BC81-9A2E6BC4C540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A73ECF6-5752-405C-BC81-9A2E6BC4C540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A73ECF6-5752-405C-BC81-9A2E6BC4C540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A73ECF6-5752-405C-BC81-9A2E6BC4C540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A4E99A2-EA6B-48B7-A432-D4A282304691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4E99A2-EA6B-48B7-A432-D4A282304691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4E99A2-EA6B-48B7-A432-D4A282304691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4E99A2-EA6B-48B7-A432-D4A282304691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2042238-2BE7-40B0-BA8C-668E826FCF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2042238-2BE7-40B0-BA8C-668E826FCF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2042238-2BE7-40B0-BA8C-668E826FCF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2042238-2BE7-40B0-BA8C-668E826FCF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

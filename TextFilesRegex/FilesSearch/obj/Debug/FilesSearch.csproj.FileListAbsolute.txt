@@ -1,0 +1,8 @@
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\FilesSearch\bin\Debug\FilesSearch.exe.config
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\FilesSearch\bin\Debug\FilesSearch.exe
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\FilesSearch\bin\Debug\FilesSearch.pdb
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\FilesSearch\bin\Debug\TextFilesRegex.exe
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\FilesSearch\bin\Debug\TextFilesRegex.pdb
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\FilesSearch\obj\Debug\FilesSearch.csprojResolveAssemblyReference.cache
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\FilesSearch\obj\Debug\FilesSearch.exe
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\FilesSearch\obj\Debug\FilesSearch.pdb
