@@ -1,0 +1,6 @@
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\PeopleTextFiles\bin\Debug\PeopleTextFiles.exe.config
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\PeopleTextFiles\obj\Debug\PeopleTextFiles.csprojResolveAssemblyReference.cache
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\PeopleTextFiles\bin\Debug\PeopleTextFiles.exe
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\PeopleTextFiles\bin\Debug\PeopleTextFiles.pdb
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\PeopleTextFiles\obj\Debug\PeopleTextFiles.exe
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\PeopleTextFiles\obj\Debug\PeopleTextFiles.pdb

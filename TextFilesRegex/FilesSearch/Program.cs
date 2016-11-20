@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TextFilesRegex;
+
 
 namespace FilesSearch
 {
@@ -12,7 +12,7 @@ namespace FilesSearch
         static void Main(string[] args)
         {
             
-                ConsoleConfig("sdad");
+             
             Console.ReadKey();
         }
     }
