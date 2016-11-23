@@ -1,0 +1,6 @@
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\TextFilesAndWeb\bin\Debug\TextFilesAndWeb.exe.config
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\TextFilesAndWeb\bin\Debug\TextFilesAndWeb.exe
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\TextFilesAndWeb\bin\Debug\TextFilesAndWeb.pdb
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\TextFilesAndWeb\obj\Debug\TextFilesAndWeb.csprojResolveAssemblyReference.cache
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\TextFilesAndWeb\obj\Debug\TextFilesAndWeb.exe
+C:\Users\Юрій\Desktop\C#\CSharpFiles\TextFilesRegex\TextFilesAndWeb\obj\Debug\TextFilesAndWeb.pdb
